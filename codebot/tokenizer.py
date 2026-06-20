@@ -74,7 +74,7 @@ class BPETokenizer:
         self.vocab_size = len(self.id_to_bytes)
 
     @staticmethod
-    def load_form(filepath):
+    def load_from(filepath):
         with open(filepath, "rb") as f:
             merge_rules = pickle.load(f)
         return BPETokenizer(merge_rules)
