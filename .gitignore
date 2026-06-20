@@ -3,3 +3,5 @@ answer/*
 .env
 __pycache__
 .DS_Store
+tiny_codes.txt
+*.pkl
