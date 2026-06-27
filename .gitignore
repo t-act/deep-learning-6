@@ -7,3 +7,4 @@ tiny_codes.txt
 *.pkl
 .claude
 *.bin
+*.pt
