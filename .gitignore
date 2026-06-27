@@ -8,3 +8,4 @@ tiny_codes.txt
 .claude
 *.bin
 *.pt
+tiny_codes_sft.json
