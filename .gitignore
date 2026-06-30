@@ -9,3 +9,5 @@ tiny_codes.txt
 *.bin
 *.pt
 tiny_codes_sft.json
+tiny_stories_train.txt
+tiny_stories_valid.txt
